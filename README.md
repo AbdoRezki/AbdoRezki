@@ -8,7 +8,7 @@ I'm 20 years old. I'm currently learning AI and computer science at the national
 
 * 🌍  I'm based in Casablanca, Morocco.
 * ✉️  You can contact me at [rezkiabderrahman@gmail.com](mailto:rezkiabderrahman@gmail.com)
-* 🧠  I'm learning computer science in general.
+* 🧠  I'm learning AI computer science.
 * 🤝  I'm open to collaborating on any project that can boost my knowledge.
 
 ### Skills
